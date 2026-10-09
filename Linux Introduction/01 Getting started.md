@@ -7,8 +7,7 @@ ___
 - `r` — Read
 - `w` — Write
 - `x` — Execute
-
----
+  
 ___
 
 usage of pwd :
