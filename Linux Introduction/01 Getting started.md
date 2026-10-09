@@ -10,19 +10,15 @@ ___
   
 ___
 
-usage of pwd :
+Usage of pwd :
+
 Use `pwd` to view the print working directoy 
 
 ```bash
 pwd
 ```
+---
 
-usage of pwd :
-
-Use `pwd` to view the print working directoy 
-```bash
-pwd
-```
 It can be divided into:
 
 ```text
