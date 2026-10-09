@@ -10,7 +10,7 @@ ___
   
 ___
 
-Usage of pwd :
+Usage of 'pwd' :
 
 Use `pwd` to view the print working directoy 
 
