@@ -5,7 +5,7 @@
 echo "Hello World"
 ```
 The command `echo` precisely tells what string of text to display provided as an argument inside the quotes , back to the terminal.
-
+---
 2) What's my account username :
 ```bash
 whoami
