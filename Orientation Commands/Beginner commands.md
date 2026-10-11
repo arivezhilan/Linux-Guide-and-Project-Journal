@@ -25,18 +25,18 @@ In Linux, users are organized into groups. These groups determine the permission
 - `gid`- Your primary Group ID.
 - `groups`- All the groups you are a member of.
 
-*) Every process runs under the user who started it.
-*) File access depends on ownership and permissions protecting user's private file.
+- Every process runs under the user who started it.
+- File access depends on ownership and permissions protecting user's private file.
 
 ## Users :
-*) Each user has a Home directory : usually (home/username)
-*) Home directories store personal files and configurations
-*) Users are identified internally by a UID (User ID)
+- Each user has a Home directory : usually (home/username)
+- Home directories store personal files and configurations
+- Users are identified internally by a UID (User ID)
 
 ## Groups:
-*) Groups are collection of user's
-*) Group's simplify permission management for multiple users
-*) Groups are identified by a GID (Group ID)
+- Groups are collection of user's
+- Group's simplify permission management for multiple users
+- Groups are identified by a GID (Group ID)
 
 ---
 4) 
