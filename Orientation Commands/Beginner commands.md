@@ -36,7 +36,7 @@ In Linux, users are organized into groups. These groups determine the permission
 ## Groups:
 - Groups are collection of user's
 - Group's simplify permission management for multiple users
-- Groups are identified by a GID (Group ID)
+- Groups are identified by a GID 
 
 ---
 4) 
