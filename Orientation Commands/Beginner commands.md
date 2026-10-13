@@ -39,5 +39,11 @@ In Linux, users are organized into groups. These groups determine the permission
 - Groups are identified by a GID (Group ID)
 
 ---
-4) 
+4) Display where exactly i'am :
+```bash
+pwd
+```
+- In Linux a core concept is that everything is treated as file . files are organised within a hierarchical structure known as file system
+- Entire file system starts from single top level directory called the root directory
+- The location of any file or directory is described by its path. A path is a sequence of directories that leads from starting point to a specific destination .  
    
