@@ -46,4 +46,8 @@ pwd
 - In Linux a core concept is that everything is treated as file . files are organised within a hierarchical structure known as file system
 - Entire file system starts from single top level directory called the root directory
 - The location of any file or directory is described by its path. A path is a sequence of directories that leads from starting point to a specific destination .  
+
+The Command `pwd` Displays the full path of directory you are currently in starting from root .
+
+---
    
