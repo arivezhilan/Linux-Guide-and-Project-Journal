@@ -62,5 +62,4 @@ The command `ls` will list the directories and files in current directory
 - `ls -r` - sorting in reverse order
 - `ls -la` - combining command flag to see list of hidden files in long format .
 
---- 
    
