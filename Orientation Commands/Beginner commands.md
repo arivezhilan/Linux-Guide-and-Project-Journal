@@ -60,6 +60,6 @@ The command `ls` will list the directories and files in current directory
 - `ls -a` - to view hidden files on the folder
 - `ls -l` - shows list of files in long format , detailed info of file permission , owner , group , file size etc .
 - `ls -r` - sorting in reverse order
-- `ls -la` - combining command flag to see list of hidden files in long format .
+- `ls -la` - combining command flag to see list of hidden files in long format
 
    
