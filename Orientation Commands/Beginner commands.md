@@ -63,4 +63,20 @@ The command `ls` will list the directories and files in current directory
 - `ls -la` - combining command flag to see list of hidden files in long format .
 - `ls ~` - This command lists the contents of the home directory, which may be different from the current working directory .
 
+--
+6) Move to a different folder : 
+```bash
+cd
+```
+The command `cd` uses paths to change or specify destination .
+
+- Absolute path :- This is the full path starting from root directory (/) . /home/username/desktop
+- Relative path :- Relative to your current location in the file system . desktop/
+
+`cd /home/username/desktop/pictures` - command moves directly to the pictures directory .
+
+Navigating to a cd folder : if your are already in a directory and want to move to a subdirectory you can use a relative path .
+
+Current location is `/home/username/desktop/pictures` and the pictures directory contains folder named Hawaii , you can navigate into it with `cd Hawaii` - we have only used Folders name because we are already in parents directory .
+
    
