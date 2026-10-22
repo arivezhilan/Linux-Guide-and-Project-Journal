@@ -63,7 +63,7 @@ The command `ls` will list the directories and files in current directory
 - `ls -la` - combining command flag to see list of hidden files in long format .
 - `ls ~` - This command lists the contents of the home directory, which may be different from the current working directory .
 
---
+---
 6) Move to a different folder : 
 ```bash
 cd
