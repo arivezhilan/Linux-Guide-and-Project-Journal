@@ -79,4 +79,12 @@ Navigating to a cd folder : if your are already in a directory and want to move 
 
 Current location is `/home/username/desktop/pictures` and the pictures directory contains folder named Hawaii , you can navigate into it with `cd Hawaii` - we have only used Folders name because we are already in parents directory .
 
+Navigation shortcuts :-
+
+- `cd.` - Current directory ( . )
+- `cd..` - parent directory ( .. )
+- `cd ~` - Home directory ( ~ )
+- `cd -` - Previous directory ( - )
+- 
+
    
