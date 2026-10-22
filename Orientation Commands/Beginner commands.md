@@ -81,9 +81,18 @@ Current location is `/home/username/desktop/pictures` and the pictures directory
 
 Navigation shortcuts :-
 
-- `cd.` - Current directory ( . )
-- `cd..` - parent directory ( .. )
+- `cd .` - Current directory ( . )
+- `cd ..` - parent directory ( .. )
 - `cd ~` - Home directory ( ~ )
 - `cd -` - Previous directory ( - )
+
+---
+7) Creating an Empty file :
+```bash
+touch
+```
+The command `touch myfile` - a new empty file created called " my file " will appear in current directory .
+
+`touch file1.txt file2.txt file3.log` - can create multiple empty files at once .
 
    
