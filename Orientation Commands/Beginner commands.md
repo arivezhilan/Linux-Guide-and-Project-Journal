@@ -85,6 +85,5 @@ Navigation shortcuts :-
 - `cd..` - parent directory ( .. )
 - `cd ~` - Home directory ( ~ )
 - `cd -` - Previous directory ( - )
-- 
 
    
