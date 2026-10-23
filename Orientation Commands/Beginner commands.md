@@ -105,8 +105,9 @@ example : `cat myfile.txt`
 
 `cat txtfile1 txtfile2` : Command reads the file in order , it will display the contents of txtfile 1 & then txtfile2 in order .
 
-Creating New files and writing or reading the content : 
 ---
+Creating New files and writing or reading the content : 
+
 Operator ( > ) to create 
 
 `cat > newfile.txt` - creates new file and write text into a file directory .
