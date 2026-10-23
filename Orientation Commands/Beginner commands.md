@@ -106,7 +106,7 @@ example : `cat myfile.txt`
 `cat txtfile1 txtfile2` : Command reads the file in order , it will display the contents of txtfile 1 & then txtfile2 in order .
 
 Creating New files and writing or reading the content : 
-
+---
 Operator ( > ) to create 
 
 `cat > newfile.txt` - creates new file and write text into a file directory .
@@ -114,5 +114,7 @@ Operator ( > ) to create
 Also the command `less` views text file that are too large to fit on a single screen . it displays text in a paged format , allowing to navigate thru a file page by page without loading the entire file into memory .
 Navigation : arrow keys up & down to navigate line by line or page by page .
 Help menu : `h` to display help summary & Exit : `q` - quits and goes back to shell .
+
+---
 
    
