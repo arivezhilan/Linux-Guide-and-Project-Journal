@@ -106,7 +106,7 @@ The command `cat` displays the content of a single file directory on the termina
 `cat txtfile1 txtfile2` : Command reads the file in order , it will display the contents of txtfile 1 & then txtfile2 in order .
 
 ---
-*) Creating New files and writing or reading the content : 
+# ) Creating New files and writing or reading the content : 
 
 Operator ( > ) to create 
 
