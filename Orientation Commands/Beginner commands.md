@@ -143,5 +143,16 @@ whatis
 ```
 The command `whatis` displays concise one line description of commands directly .
 
+---
+
+Difference between help, man, and --help :
+
+Command                      Purpose                                Example
+
+help               Help for Bash built-in commands                  help cd
+
+man                Opens a command's manual page                     man ls
+
+--help             Often displays a command's usage and options     ls --help
 
    
