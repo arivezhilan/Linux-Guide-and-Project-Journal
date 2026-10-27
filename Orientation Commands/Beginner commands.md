@@ -144,11 +144,12 @@ whatis
 The command `whatis` displays concise one line description of commands directly .
 
 ---
+*) Difference between help, man, and --help
 
 | Command | Description | Example |
 |---------|-------------|---------|
-| `ls`    | List files  | `ls -l` |
-| `cd`    | Change directory | `cd /home` |
-| `pwd`   | Print working directory | `pwd` |
+| `help`    | Help for Bash built-in commands  | `help cd` |
+| `man`    | Opens a command's manual page | `man ls` |
+| `--help`   | Often displays a command's usage and options | `ls --help` |
 
    
