@@ -117,6 +117,31 @@ Also the command `less` views text file that are too large to fit on a single sc
 - Help menu : `h` to display help summary & Exit : `q` - quits and goes back to shell .
 
 ---
+9) Finding what a command does, its syntax, and the options it supports :
+```bash
+help
+```
+The command `help` provides info about other bash built in commands .
+`help echo` : displays summary of syntax and list of available options .
+
+`ls --help` : provides summary of the command .
+`help` mainly works with shell built-ins, such as `cd`, `echo`, `read`, and `exit`. For external programs such as `ls`, use `man ls` or `ls --help`
+
+---
+10) Display the documentation for commands :
+```bash
+man
+```
+The command `man`It displays the documentation for commands, programs, and system functions, explaining how they work, their options, and how to use them .
+
+`man ls` accessing a manual for `ls` command .
+
+---
+11) Whats that command :
+```bash
+whatis
+```
+The command `whatis` displays concise one line description of commands directly .
 
 
    
